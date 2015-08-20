@@ -1,0 +1,15 @@
+--- 
+db: 
+  DbName: name of database 
+  DbPass: password to login password
+  Dbuser: user name to login 
+  DefaultTable: default table
+  
+nat: 
+  DbAddress: address to DB instance(kind of RDS) 
+  DbPort: port number from nat instance to DB instance
+  FowardTo: address at local of portforwarding(127.0.0.1 is frequently used)
+  NatServerAdress: server adress of NAT server
+  NatServerSshPath: path to SSH private key to login NAT server 
+  NatServerUser: kensuke_mitsuzawa
+  localPortNumber: port number at local 
