@@ -11,5 +11,5 @@ nat:
   FowardTo: address at local of portforwarding(127.0.0.1 is frequently used)
   NatServerAdress: server adress of NAT server
   NatServerSshPath: path to SSH private key to login NAT server 
-  NatServerUser: kensuke_mitsuzawa
+  NatServerUser: your_name_to_login_server
   localPortNumber: port number at local 
